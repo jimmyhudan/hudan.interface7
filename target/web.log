@@ -1,0 +1,124 @@
+2020-09-04 10:33:54 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=23"}]
+2020-09-04 10:33:54 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:33:54 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:33:54 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=23}
+2020-09-04 10:33:54 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=23"}]
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=23}
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=67"}]
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=67}
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=67"}]
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=67}
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=73"}]
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=73}
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=73"}]
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=73}
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=68"}]
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=68}
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=68"}]
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=68}
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=23"}]
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=23}
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=23"}]
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=23}
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:33:55 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:45:27 method: com.hudan.interf.UniformProcessor.init(UniformProcessor.java:47) - [ INFO ]----**********************开始接口自动化框架*****************************
+2020-09-04 10:45:29 method: com.hudan.interf.UniformProcessor.init(UniformProcessor.java:47) - [ INFO ]----**********************开始接口自动化框架*****************************
+2020-09-04 10:45:29 method: com.hudan.interf.UniformProcessor.init(UniformProcessor.java:47) - [ INFO ]----**********************开始接口自动化框架*****************************
+2020-09-04 10:45:29 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=23"}]
+2020-09-04 10:45:29 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:45:29 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:45:29 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=23}
+2020-09-04 10:45:29 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=23"}]
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=23}
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=67"}]
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=67}
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=67"}]
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=67}
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=73"}]
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=73}
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=73"}]
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=73}
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=68"}]
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=68}
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=68"}]
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=68}
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=23"}]
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=23}
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:24) - [ INFO ]----验证脚本，json格式的数组字符串为：[{"no":"1","sql":"select COUNT(*) as bookCount from program_book where book_price<=23"}]
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:27) - [ INFO ]----有几条SQL语句：1
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:31) - [ INFO ]----***************************开始数据库脚本查询*******************************
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:36) - [ INFO ]----执行脚本的编号为: {select COUNT(*) as bookCount from program_book where book_price<=23}
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:39) - [ INFO ]----执行脚本为: {1}
+2020-09-04 10:45:30 method: com.hudan.utils.DBcheckUtil.doValidate(DBcheckUtil.java:47) - [ INFO ]----***************************结束数据库脚本查询*******************************
+2020-09-04 10:45:31 method: com.hudan.interf.UniformProcessor.batchWriteTestResultToExcel1(UniformProcessor.java:175) - [ INFO ]----**********************结束接口自动化框架*****************************

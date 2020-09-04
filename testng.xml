@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+  <!-- 定义一个测试集-->
+<suite name="查询信息系统接口项目">
+	<test name="登录接口">
+		<classes>
+			<class name="com.hudan.interf.LoginProcessor">
+			</class>
+		</classes>
+	</test>
+
+ 
+	<test name="注册接口">
+		<classes>
+			<class name="com.hudan.interf.RegisterProcessor" />
+			<!-- <class name="com.hudan.interf.LoginInterf"> <methods> <include name="test"></include> 
+				</methods> </class> -->
+		</classes>
+
+	</test>
+
+	<test name="查询接口">
+		<classes>
+			<class name="com.hudan.interf.SearchProcessor">
+			</class>
+		</classes>
+	</test>
+
+
+
+</suite>
+
